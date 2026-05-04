@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color:blue
+}
+
+.titulo_destacado {
+    text-align: right;
+    color: rgb(164, 5, 164);
+}
+
